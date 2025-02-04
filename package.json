@@ -11,9 +11,12 @@
   "dependencies": {
     "@ai-sdk/deepseek": "^0.1.8",
     "ai": "^4.1.17",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.474.0",
     "next": "15.1.6",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^3.0.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
